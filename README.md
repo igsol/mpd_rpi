@@ -1,7 +1,7 @@
 MPD on Raspberry Pi
 ===================
 
-The role and playbook is intended for:
+The role and playbook are intended for:
  
 * Installation [MPD](http://www.musicpd.org/) on Raspberry Pi 2.
 * Setup [HiFiberry DAC+](https://www.hifiberry.com/dacplus/) on brand new [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) installation.
