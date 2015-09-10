@@ -7,5 +7,5 @@
     name={{item}}
     force=yes
     state=present
-  with_items: required_packages
+  with_items: mpdrpi_required_packages
   tags: pkg
